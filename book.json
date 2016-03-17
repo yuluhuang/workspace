@@ -1,8 +1,7 @@
 {
     "plugins": [
         "ace",
-        "book-summary-scroll-position-saver",
-        "-bigdata"
+        "book-summary-scroll-position-saver"
     ],
     "pluginsConfig": {}
 }
