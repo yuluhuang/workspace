@@ -1,7 +1,8 @@
 {
     "plugins": [
         "ace",
-        "book-summary-scroll-position-saver"
+        "book-summary-scroll-position-saver",
+        "disqus"
     ],
     "pluginsConfig": {}
 }
