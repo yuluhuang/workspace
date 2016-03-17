@@ -1,0 +1,9 @@
+{
+    "plugins": [
+        "gitbook-plugin-bigdata",
+        "ace",
+        "disqus",
+        "book-summary-scroll-position-saver"
+    ],
+    "pluginsConfig": {}
+}
