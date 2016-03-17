@@ -1,9 +1,11 @@
 {
     "plugins": [
         "ace",
-        "disqus",
+      
         "book-summary-scroll-position-saver",
         "bigdata"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+     
+    }
 }
