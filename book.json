@@ -4,5 +4,9 @@
         "book-summary-scroll-position-saver",
         "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+     "disqus": {
+            "shortName":"yuluhuang"
+        }
+    }
 }
