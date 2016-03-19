@@ -1,6 +1,4 @@
-问题反馈: `504367857@qq.com`
-
-时间：2015/10/6
+随笔摘抄
 # Summary
 
 * [preface](README.md)
